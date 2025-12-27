@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DylanDabrowski
-- 🌱 I’m studying at Sheridan Collage for my BA in Mobile Computing
+- 📍 I’m currently working as a Software Engineer in Toronto, ON
 - 📫 How to reach me: dylandabrowski@gmail.com
 
 <!---
